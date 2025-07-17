@@ -1700,7 +1700,7 @@
    "property": "options",
    "property_type": "Text",
    "row_name": null,
-   "value": ".ABBR.-SAL-INV-.YYYY.-\n.ABBR.-SAL-INV-RET-.YYYY.-\nACC-SINV-.YYYY.-\nACC-SINV-RET-.YYYY.-"
+   "value": "\n.ABBR.-SAL-INV-.YYYY.-\n.ABBR.-SAL-INV-RET-.YYYY.-\nACC-SINV-.YYYY.-\nACC-SINV-RET-.YYYY.-"
   },
   {
    "_assign": null,
