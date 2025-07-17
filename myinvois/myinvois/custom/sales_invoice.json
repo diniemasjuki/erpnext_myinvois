@@ -1699,8 +1699,8 @@
    "property": "options",
    "property_type": "Text",
    "row_name": null,
-   "default": ".ABBR.-SAL-INV-.YYYY.-",
-   "value": ".ABBR.-SAL-INV-.YYYY.-\n.ABBR.-SAL-INV-RET-.YYYY.-\nACC-SINV-.YYYY.-\nACC-SINV-RET-.YYYY.-"
+   "value": ".ABBR.-SAL-INV-.YYYY.MM.\n.ABBR.-SAL-INV-RET-.YYYY.MM.",
+   "default": ".ABBR.-SAL-INV-.YYYY.MM."
   },
   {
    "_assign": null,
